@@ -30,10 +30,6 @@ How It Works?
 - Tracks button press time using `millis()`.
 - Automatically turns off LED after 10 seconds if no new press is detected.
 
-  Project Circuit
 
-The following image shows the Tinkercad simulation for this task:
-
-![Circuit Diagram](images/tinkercad_circuit.png)
 
 
